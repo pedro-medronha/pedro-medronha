@@ -1,7 +1,7 @@
 # 💫 Hey there. I am Pedro Medronha!
 
 # </> I am a passionate IT student from Brazil
-🔭 I am currently interning at the Information Technology and Communication Department of the State Court of Justice of Rio Grande do Sul<br>💻 I am seeking the opportunity to contribute to the development of innovative systems<br>🌱 I am currently learning about Java web development frameworks and data engineering concepts<br>📫 You can contact me at pedromedronha@gmail.com
+🔭 I am currently interning at the Information Technology and Communication Department of the State Court of Justice of Rio Grande do Sul<br>💻 I am seeking the opportunity to contribute to the development of innovative systems<br>🌱 I am currently learning about Java web development frameworks and data engineering concepts<br>📫 You can contact me at pedromedronha53@gmail.com
 
 
 ## 🌐 Socials:
